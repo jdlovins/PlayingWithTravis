@@ -1,1 +1,4 @@
-print("hello github")
+def get_answer():
+    return 5
+
+
