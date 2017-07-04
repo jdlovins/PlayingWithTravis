@@ -6,4 +6,4 @@ class TestMain:
         print("\n%s - %s" % (type(self).__name__, method.__name__))
 
     def test_get_answer(self):
-        assert get_answer() == 4
+        assert get_answer() == 5
